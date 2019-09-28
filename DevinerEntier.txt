@@ -1,0 +1,5 @@
+Algorithme DevinerEntier
+var
+Debut
+	n := Ent(alea()*100)
+Fin
